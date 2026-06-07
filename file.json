@@ -1,0 +1,14 @@
+[
+  {
+    "file_name":"customers.csv"
+  },
+  {
+    "file_name":"products.csv"
+  },
+  {
+    "file_name":"orders.csv"
+  },
+  {
+    "file_name":"payments.csv"
+  }
+]
